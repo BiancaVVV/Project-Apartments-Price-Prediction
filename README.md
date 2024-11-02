@@ -1,5 +1,5 @@
-# Linear Regression Project
-Estimating the rental price of an apartment according to its characteristics
+# Dubai Apartments Prediction Price Project
+Estimating the price of an apartment according to its characteristics
 
 Dataset: 
 
