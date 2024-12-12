@@ -5,7 +5,7 @@ Dataset:
 
 https://www.kaggle.com/datasets/dataregress/dubai-properties-dataset
 
-# V1: Linear Regression Approach
+# Results
 
 <img width="850" alt="Screenshot 2024-10-31 at 12 07 55" src="https://github.com/user-attachments/assets/e30337a5-f3ca-4647-b625-af3fb89a9ee0">
 <img width="846" alt="Screenshot 2024-10-31 at 12 08 12" src="https://github.com/user-attachments/assets/eaf36322-7105-4e22-b5d3-3a890d4f2343">
