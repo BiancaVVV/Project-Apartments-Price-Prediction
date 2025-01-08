@@ -27,3 +27,7 @@ https://www.kaggle.com/datasets/dataregress/dubai-properties-dataset
 <img width="844" alt="Screenshot 2024-10-31 at 12 08 57" src="https://github.com/user-attachments/assets/92524fab-5659-4d78-bfff-972afd8e58e5">
 <img width="845" alt="Screenshot 2024-10-31 at 12 09 22" src="https://github.com/user-attachments/assets/6218e485-ee61-475f-bb2b-43ba96b492e5">
 <img width="840" alt="Screenshot 2024-10-31 at 12 09 48" src="https://github.com/user-attachments/assets/397523b2-897a-4a88-8e3b-ab719c01bb9e">
+
+Random Forest Result:<img width="826" alt="Screenshot 2025-01-08 at 20 56 15" src="https://github.com/user-attachments/assets/b3507293-ee2b-4d37-94ea-2e3857254f54" />
+
+
