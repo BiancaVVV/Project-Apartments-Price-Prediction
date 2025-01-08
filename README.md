@@ -5,7 +5,13 @@ Dataset:
 
 https://www.kaggle.com/datasets/dataregress/dubai-properties-dataset
 
-# Results
+# Results Acurracy
+| V1: Linear Regression| V2: Random Forest | XGBoost|	
+| 	:-----:	| 	:-----:	  | 	:-----:|
+| 	0.89   	| 	0.92	    | 	  0.94      |
+
+
+
 | Estimators| 	Acuratete | 	
 | 	:-----:	| 	:-----:	  | 	
 | 	100   	| 	0.94	    | 	
